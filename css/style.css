@@ -1,0 +1,38 @@
+main{
+    width: 100%;
+}
+.content{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    margin: 100px;
+    text-align: center;
+}
+
+.article{
+    margin: 75px;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+
+.article .texte{
+    padding-top: 250px;
+}
+
+.article2{
+    margin: 75px;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+
+.article2 .texte{
+    margin: 20px;
+    padding-top: 200px;
+}
+
+
